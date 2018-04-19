@@ -1,0 +1,5 @@
+This code is for douban movie ranking list.
+Here,movieSpider and movieSpider02 are two codes to gather data of top100 movies in two ways:get request and post resquest.
+The data was processed into html and saved in the folder:html.
+The warMovieSpider is a code to process the data into text format where the regular expression was used.
+Author:tutu
